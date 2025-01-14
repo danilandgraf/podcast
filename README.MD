@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://github.com/danilandgraf/podcast/blob/main/assets/cover_metanoia.png"
     width="300"
 />
 </p>
