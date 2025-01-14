@@ -9,10 +9,10 @@
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
-# Apresentando Podcast "Metanoia do Talento: O impulso oculto por trás do desempenho"
+# Apresentando Podcast 
 
 
- > **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > **PodCast** "Metanoia do Talento: O impulso oculto por trás do desempenho"
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
