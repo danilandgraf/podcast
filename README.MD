@@ -28,7 +28,7 @@
 - Leonardo.AI Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## Materiais
+## Ouça aqui
 
 - [Link da live no Youtube](https://www.youtube.com)
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
