@@ -9,7 +9,7 @@
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
+# Apresentando Podcast "Metanoia do Talento: O impulso oculto por trás do desempenho"
 
 
  > **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
